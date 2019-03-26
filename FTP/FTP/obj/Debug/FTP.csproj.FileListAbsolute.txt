@@ -15,3 +15,20 @@ C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
 C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
 C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP.exe
 C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP.pdb
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\bin\Debug\FTP.exe
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\MainWindow.g.cs
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\Window1.g.cs
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\App.g.cs
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP_MarkupCompile.cache
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP_MarkupCompile.lref
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\MainWindow.baml
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\Window1.baml
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP.g.resources
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP.Properties.Resources.resources
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP.exe
+C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP.pdb
