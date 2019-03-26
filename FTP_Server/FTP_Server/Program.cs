@@ -12,7 +12,7 @@ namespace FTP_Server
 {
     class Program
     {
-        static IPEndPoint ipServer = new IPEndPoint(IPAddress.Parse("192.168.1.10"), 60100);
+        static IPEndPoint ipServer = new IPEndPoint(IPAddress.Parse("192.168.1.56"), 60100);
         static TcpListener srv = new TcpListener(ipServer);
         static TcpClient client;
         static string root = @"C:/Users/Administrator/Desktop/ftp";
@@ -33,15 +33,16 @@ namespace FTP_Server
                 //lettura da rete
                 stream = client.GetStream();
                 stream.Read(buffer, 0, buffer.Length);
+                stream.Close();
 
                 //conversione da byte a ascii
                 str = Encoding.ASCII.GetString(buffer).Split(',');
 
-                //ricavo del percorso (dopo la root)
+                //ricavo percorso (dopo la root)
                 path = str[0].Substring(str[0].IndexOf('/'));
                 
                 //scrittura del file
-                sw = new StreamWriter(@root + @"/" + path);
+                sw = new StreamWriter(@root + "/" + path);
                 sw.Write(str);
                 sw.Flush();
                 sw.Close();

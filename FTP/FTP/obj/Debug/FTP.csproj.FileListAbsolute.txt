@@ -1,0 +1,17 @@
+C:\Users\utente\Desktop\FTP\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Users\utente\Desktop\FTP\FTP\FTP\bin\Debug\FTP.exe
+C:\Users\utente\Desktop\FTP\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP.csprojResolveAssemblyReference.cache
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\MainWindow.g.cs
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\Window1.g.cs
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\App.g.cs
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP_MarkupCompile.cache
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP_MarkupCompile.lref
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\MainWindow.baml
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\Window1.baml
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP.g.resources
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP.Properties.Resources.resources
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP.exe
+C:\Users\utente\Desktop\FTP\FTP\FTP\obj\Debug\FTP.pdb
