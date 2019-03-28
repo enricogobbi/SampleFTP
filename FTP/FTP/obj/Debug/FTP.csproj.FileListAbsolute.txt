@@ -32,3 +32,19 @@ C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP.csproj.GenerateRe
 C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
 C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP.exe
 C:\Users\Utente ASUS\Documents\SampleFTP\FTP\FTP\obj\Debug\FTP.pdb
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\bin\Debug\FTP.exe
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\MainWindow.g.cs
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\Window1.g.cs
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\App.g.cs
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP_MarkupCompile.cache
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP_MarkupCompile.lref
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\MainWindow.baml
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\Window1.baml
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP.g.resources
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP.Properties.Resources.resources
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP.exe
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP.pdb

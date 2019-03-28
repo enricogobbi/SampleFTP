@@ -9,7 +9,7 @@
     <Grid>
         <Label Content="Percorso file locale:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txt_Local" HorizontalAlignment="Left" Height="23" Margin="10,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="733"/>
-        <Button Content="..." HorizontalAlignment="Left" Margin="749,41,0,0" VerticalAlignment="Top" Width="33" Height="23"/>
+        <Button x:Name="btn_Select" Content="..." Margin="749,41,10,0" VerticalAlignment="Top" Height="23" Click="btn_Select_Click"/>
         <TextBox x:Name="txt_Remote" HorizontalAlignment="Left" Height="23" Margin="10,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="733"/>
         <Label Content="Percorso file remoto" HorizontalAlignment="Left" Margin="10,93,0,0" VerticalAlignment="Top"/>
         <Button x:Name="btn_Upload" Content="Upload" HorizontalAlignment="Left" Margin="10,192,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="btn_Upload_Click"/>

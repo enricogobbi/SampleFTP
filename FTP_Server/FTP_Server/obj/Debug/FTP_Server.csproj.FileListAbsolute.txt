@@ -12,3 +12,9 @@ C:\Users\Utente ASUS\Documents\SampleFTP\FTP_Server\FTP_Server\obj\Debug\FTP_Ser
 C:\Users\Utente ASUS\Documents\SampleFTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.csproj.CoreCompileInputs.cache
 C:\Users\Utente ASUS\Documents\SampleFTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.exe
 C:\Users\Utente ASUS\Documents\SampleFTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.pdb
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP_Server\FTP_Server\bin\Debug\FTP_Server.exe.config
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP_Server\FTP_Server\bin\Debug\FTP_Server.exe
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP_Server\FTP_Server\bin\Debug\FTP_Server.pdb
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.csproj.CoreCompileInputs.cache
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.exe
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.pdb

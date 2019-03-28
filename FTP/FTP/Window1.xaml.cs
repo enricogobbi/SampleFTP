@@ -16,6 +16,7 @@ using System.Net.Sockets;
 using System.Threading;
 using System.IO;
 using Microsoft.Win32;
+//using System.Windows.Forms;
 
 namespace FTP
 {
@@ -46,6 +47,24 @@ namespace FTP
             netStream.Write(buffer, 0, buffer.Length);
 
             netStream.Close();
+        }
+
+        private void btn_Select_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog dialog = new OpenFileDialog();
+
+            if ((bool)dialog.ShowDialog())
+            {
+                try
+                {
+                    txt_Local.Text = dialog.FileName;
+                    
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Security error.\n\nError message: {ex.Message}");
+                }
+            }
         }
     }
 }

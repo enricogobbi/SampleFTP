@@ -12,10 +12,10 @@ namespace FTP_Server
 {
     class Program
     {
-        static IPEndPoint ipServer = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 60100);
+        static IPEndPoint ipServer = new IPEndPoint(IPAddress.Parse("10.13.100.6"), 60100);
         static TcpListener srv = new TcpListener(ipServer);
         static TcpClient client;
-        static string root = /*"C:/Users/Administrator/Desktop/ftp"*/@"C:\Users\Utente ASUS\Documents\SampleFTP\";
+        static string root = /*@"C:\Users\enrico.gobbi\Documents\ftp"*/@"C:\xampp\htdocs\fileFTP\";
 
         static void Listening()
         {
@@ -43,7 +43,7 @@ namespace FTP_Server
                 
                 //scrittura del file
                 sw = new StreamWriter(root + path);
-                sw.Write(str);
+                sw.Write(str[1]);
                 sw.Flush();
                 sw.Close();
             }
