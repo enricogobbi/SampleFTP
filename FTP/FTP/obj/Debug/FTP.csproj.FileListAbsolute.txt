@@ -48,3 +48,4 @@ C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP.csproj.GenerateRes
 C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
 C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP.exe
 C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP.pdb
+C:\Users\enrico.gobbi\Desktop\SampleFTP\FTP\FTP\obj\Debug\FTP.csprojAssemblyReference.cache

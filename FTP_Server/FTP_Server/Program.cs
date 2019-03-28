@@ -15,15 +15,18 @@ namespace FTP_Server
         static IPEndPoint ipServer = new IPEndPoint(IPAddress.Parse("10.13.100.6"), 60100);
         static TcpListener srv = new TcpListener(ipServer);
         static TcpClient client;
-        static string root = /*@"C:\Users\enrico.gobbi\Documents\ftp"*/@"C:\xampp\htdocs\fileFTP\";
+        static string root = /*@"C:\Users\enrico.gobbi\Documents\ftp\"*/@"C:\xampp\htdocs\fileFTP\";
 
         static void Listening()
         {
             NetworkStream stream;
             byte[] buffer = new byte[2048];
             StreamWriter sw;
-            string[] str;
+            string[] str = new string[2];
             string path;
+            int i = 0;
+            string tmp = "";
+
 
             while (true)
             {
@@ -32,11 +35,30 @@ namespace FTP_Server
 
                 //lettura da rete
                 stream = client.GetStream();
-                stream.Read(buffer, 0, buffer.Length);
-                stream.Close();
+
+                
+                while ((i = stream.Read(buffer, 0, buffer.Length)) != 0)
+                {
+                    // Translate data bytes to a ASCII string.
+                    tmp += Encoding.ASCII.GetString(buffer, 0, i);
+
+                    //Console.WriteLine("Received: {0}", str);
+
+                    // Process the data sent by the client.
+                    /*data = data.ToUpper();
+
+                    byte[] msg = System.Text.Encoding.ASCII.GetBytes(data);
+
+                    // Send back a response.
+                    stream.Write(msg, 0, msg.Length);
+                    Console.WriteLine("Sent: {0}", data);*/
+                }
+
+                /*stream.Read(buffer, 0, buffer.Length);
+                stream.Close();*/
 
                 //conversione da byte a ascii
-                str = Encoding.ASCII.GetString(buffer).Split(',');
+                str = tmp.Split(',');
 
                 //ricavo percorso (dopo la root)
                 path = str[0]/*.Substring(str[0].IndexOf(@"\"))*/;
